@@ -1,0 +1,6 @@
+[core]
+    remote = remote_drive
+['remote "remote_drive"']
+    url = gdrive://105DlRmnL4uVpdQsa79d6wEeHKN9ADWi-
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = C:\Users\admin\Documents\Projet_synthese\APU_ANOMALY_DETECTION\Google_key.json
